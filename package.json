@@ -1,0 +1,35 @@
+{
+  "name": "desafiovue",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@popperjs/core": "^2.11.8",
+    "@zxcvbn-ts/core": "^3.0.4",
+    "@zxcvbn-ts/language-common": "^3.0.4",
+    "@zxcvbn-ts/language-pt-br": "^3.0.2",
+    "axios": "^1.13.6",
+    "bootstrap": "^5.3.8",
+    "cpf-cnpj-validator": "^1.0.3",
+    "maska": "^3.2.0",
+    "pdfjs-dist": "^5.5.207",
+    "pinia": "^3.0.4",
+    "pinia-plugin-persistedstate": "^4.7.1",
+    "sass": "^1.97.3",
+    "vue": "^3.5.25",
+    "vue-router": "4",
+    "vue3-dropzone": "^2.2.1",
+    "yup": "^1.7.1"
+  },
+  "devDependencies": {
+    "@types/pdfjs-dist": "^2.10.378",
+    "@vitejs/plugin-vue": "^6.0.2",
+    "vite": "^7.3.1"
+  },
+  "packageManager": "yarn@4.12.0+sha512.f45ab632439a67f8bc759bf32ead036a1f413287b9042726b7cc4818b7b49e14e9423ba49b18f9e06ea4941c1ad062385b1d8760a8d5091a1a31e5f6219afca8"
+}
